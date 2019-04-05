@@ -1,6 +1,6 @@
 {
   "name": "dograin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Makes it rain... DOGS!",
   "main": "src/dograin.js",
   "scripts": {
