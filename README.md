@@ -1,6 +1,6 @@
 # DogRain
 
-For when you site simply must rain random images of dogs every now and then. This project was made possible by [PlaceDog.net](https://placedog.net/)!
+For when your site simply must rain random images of dogs every now and then. This project was made possible by [PlaceDog.net](https://placedog.net/)!
 
 ## Basic Usage
 
