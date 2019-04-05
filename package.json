@@ -2,9 +2,15 @@
   "name": "dograin",
   "version": "0.1.0",
   "description": "Makes it rain... DOGS!",
-  "main": "src/index.js",
+  "main": "src/dograin.js",
   "scripts": {
-    "build": "parcel build ./src/index.js"
+    "build": "parcel build ./src/index.js",
+    "watch": "parcel watch ./src/index.js",
+    "production": "parcel build ./src/index.js",
+    "prod": "parcel build ./src/index.js",
+    "development": "parcel watch ./src/index.js",
+    "develop": "parcel watch ./src/index.js",
+    "dev": "parcel watch ./src/index.js"
   },
   "author": "Justin Jordan",
   "license": "MIT",
