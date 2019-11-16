@@ -47,7 +47,6 @@ export default class Dog {
   setPosition(x, y, rotation) {
     this.x = typeof x === "number" ? x : 100 * Math.random();
     this.y = typeof y === "number" ? y : 100 * Math.random();
-    console.log(rotation);
     this.rotation =
       typeof rotation === "number" ? rotation : 90 * Math.random() - 45;
 
